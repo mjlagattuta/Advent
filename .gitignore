@@ -10,3 +10,4 @@ temp*
 temp/
 *.pyc
 *.pyo
+.DS_Store
