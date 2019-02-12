@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeta" format="1">
+  <advance width="794"/>
+  <unicode hex="03B6"/>
+  <outline>
+    <contour>
+      <point x="1029" y="1396" type="line"/>
+      <point x="1032" y="1356" type="line"/>
+      <point x="873" y="1240"/>
+      <point x="736" y="1122"/>
+      <point x="621" y="1012" type="curve"/>
+      <point x="525" y="921"/>
+      <point x="438" y="831"/>
+      <point x="373" y="742" type="curve"/>
+      <point x="266" y="599"/>
+      <point x="195" y="477"/>
+      <point x="171" y="360" type="curve"/>
+      <point x="150" y="261"/>
+      <point x="160" y="180"/>
+      <point x="210" y="124" type="curve"/>
+      <point x="288" y="38"/>
+      <point x="497" y="2"/>
+      <point x="774" y="48" type="curve"/>
+      <point x="677" y="-422" type="line"/>
+      <point x="634" y="-409" type="line"/>
+      <point x="726" y="2" type="line"/>
+      <point x="507" y="-28"/>
+      <point x="261" y="-4"/>
+      <point x="171" y="100" type="curve"/>
+      <point x="114" y="169"/>
+      <point x="103" y="261"/>
+      <point x="128" y="368" type="curve"/>
+      <point x="158" y="485"/>
+      <point x="231" y="623"/>
+      <point x="338" y="764" type="curve"/>
+      <point x="412" y="857"/>
+      <point x="497" y="949"/>
+      <point x="591" y="1040" type="curve"/>
+      <point x="714" y="1155"/>
+      <point x="844" y="1263"/>
+      <point x="960" y="1356" type="curve"/>
+      <point x="476" y="1356" type="line"/>
+      <point x="485" y="1396" type="line"/>
+    </contour>
+  </outline>
+</glyph>

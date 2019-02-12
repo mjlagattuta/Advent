@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rho" format="1">
+  <advance width="872"/>
+  <unicode hex="03C1"/>
+  <outline>
+    <contour>
+      <point x="940" y="620" type="curve"/>
+      <point x="880" y="340" type="line"/>
+      <point x="828" y="95"/>
+      <point x="684" y="-36"/>
+      <point x="462" y="-36" type="curve"/>
+      <point x="338" y="-36"/>
+      <point x="237" y="30"/>
+      <point x="208" y="112" type="curve"/>
+      <point x="96" y="-424" type="line"/>
+      <point x="-9" y="-377" type="line"/>
+      <point x="202" y="620" type="line" smooth="yes"/>
+      <point x="256" y="874"/>
+      <point x="422" y="1012"/>
+      <point x="657" y="1012" type="curve"/>
+      <point x="894" y="1012"/>
+      <point x="991" y="863"/>
+    </contour>
+    <contour>
+      <point x="765" y="324" type="curve"/>
+      <point x="828" y="620" type="line"/>
+      <point x="869" y="815"/>
+      <point x="809" y="908"/>
+      <point x="641" y="908" type="curve"/>
+      <point x="465" y="908"/>
+      <point x="357" y="815"/>
+      <point x="316" y="620" type="curve"/>
+      <point x="255" y="334" type="line" smooth="yes"/>
+      <point x="219" y="164"/>
+      <point x="322" y="70"/>
+      <point x="475" y="70" type="curve"/>
+      <point x="627" y="70"/>
+      <point x="729" y="156"/>
+    </contour>
+  </outline>
+</glyph>

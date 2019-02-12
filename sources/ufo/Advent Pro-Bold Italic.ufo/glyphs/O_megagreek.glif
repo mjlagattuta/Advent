@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegagreek" format="1">
+  <advance width="1166"/>
+  <unicode hex="03A9"/>
+  <outline>
+    <contour>
+      <point x="1283" y="1004" type="curve"/>
+      <point x="1166" y="452" type="line"/>
+      <point x="1134" y="303"/>
+      <point x="1102" y="239"/>
+      <point x="1009" y="202" type="curve"/>
+      <point x="1107" y="202" type="line"/>
+      <point x="1096" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="683" y="202" type="line"/>
+      <point x="827" y="202"/>
+      <point x="898" y="225"/>
+      <point x="933" y="392" type="curve"/>
+      <point x="1049" y="936" type="line" smooth="yes"/>
+      <point x="1081" y="1085"/>
+      <point x="1058" y="1176"/>
+      <point x="916" y="1176" type="curve"/>
+      <point x="762" y="1176" type="line" smooth="yes"/>
+      <point x="623" y="1176"/>
+      <point x="551" y="1115"/>
+      <point x="513" y="936" type="curve"/>
+      <point x="397" y="390" type="line" smooth="yes"/>
+      <point x="360" y="215"/>
+      <point x="422" y="202"/>
+      <point x="567" y="202" type="curve"/>
+      <point x="524" y="0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="147" y="202" type="line"/>
+      <point x="241" y="202" type="line"/>
+      <point x="153" y="226"/>
+      <point x="175" y="370"/>
+      <point x="192" y="452" type="curve"/>
+      <point x="309" y="1004" type="line" smooth="yes"/>
+      <point x="361" y="1249"/>
+      <point x="521" y="1410"/>
+      <point x="772" y="1410" type="curve"/>
+      <point x="957" y="1410" type="line" smooth="yes"/>
+      <point x="1205" y="1410"/>
+      <point x="1335" y="1249"/>
+    </contour>
+  </outline>
+</glyph>

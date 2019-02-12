@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="1">
+  <advance width="1056"/>
+  <unicode hex="0053"/>
+  <outline>
+    <contour>
+      <point x="872" y="1340" type="curve"/>
+      <point x="838" y="1236" type="line"/>
+      <point x="756" y="1282"/>
+      <point x="662" y="1306"/>
+      <point x="568" y="1306" type="curve"/>
+      <point x="424" y="1306"/>
+      <point x="236" y="1260"/>
+      <point x="236" y="1082" type="curve"/>
+      <point x="236" y="738"/>
+      <point x="996" y="850"/>
+      <point x="996" y="358" type="curve"/>
+      <point x="996" y="92"/>
+      <point x="760" y="-24"/>
+      <point x="524" y="-24" type="curve"/>
+      <point x="336" y="-24"/>
+      <point x="174" y="40"/>
+      <point x="50" y="184" type="curve"/>
+      <point x="120" y="254" type="line"/>
+      <point x="204" y="142"/>
+      <point x="380" y="84"/>
+      <point x="516" y="84" type="curve"/>
+      <point x="704" y="84"/>
+      <point x="876" y="162"/>
+      <point x="876" y="374" type="curve"/>
+      <point x="876" y="736"/>
+      <point x="120" y="654"/>
+      <point x="120" y="1072" type="curve"/>
+      <point x="120" y="1324"/>
+      <point x="350" y="1414"/>
+      <point x="566" y="1414" type="curve"/>
+      <point x="672" y="1414"/>
+      <point x="778" y="1390"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>56</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>586</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

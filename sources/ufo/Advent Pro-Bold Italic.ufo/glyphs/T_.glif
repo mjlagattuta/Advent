@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="862"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="1082" y="1174" type="line"/>
+      <point x="786" y="1174" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="566" y="1174" type="line"/>
+      <point x="276" y="1174" type="line"/>
+      <point x="323" y="1396" type="line"/>
+      <point x="1129" y="1396" type="line"/>
+    </contour>
+  </outline>
+</glyph>

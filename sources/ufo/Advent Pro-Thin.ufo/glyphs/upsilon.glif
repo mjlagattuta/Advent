@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilon" format="1">
+  <advance width="876"/>
+  <unicode hex="03C5"/>
+  <outline>
+    <contour>
+      <point x="806" y="998" type="line"/>
+      <point x="806" y="368" type="line"/>
+      <point x="806" y="136"/>
+      <point x="680" y="-20"/>
+      <point x="440" y="-20" type="curve"/>
+      <point x="188" y="-20"/>
+      <point x="66" y="154"/>
+      <point x="66" y="368" type="curve"/>
+      <point x="66" y="998" type="line"/>
+      <point x="106" y="998" type="line"/>
+      <point x="106" y="368" type="line" smooth="yes"/>
+      <point x="106" y="172"/>
+      <point x="222" y="16"/>
+      <point x="442" y="16" type="curve"/>
+      <point x="672" y="16"/>
+      <point x="772" y="168"/>
+      <point x="772" y="368" type="curve"/>
+      <point x="772" y="998" type="line"/>
+    </contour>
+  </outline>
+</glyph>

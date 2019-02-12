@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonoscomb" format="1">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="414" y="1342" type="curve"/>
+      <point x="298" y="1192" type="line"/>
+      <point x="210" y="1192" type="line"/>
+      <point x="270" y="1424" type="line" smooth="yes"/>
+      <point x="283" y="1477"/>
+      <point x="349" y="1514"/>
+      <point x="400" y="1482" type="curve"/>
+      <point x="451" y="1455"/>
+      <point x="451" y="1387"/>
+    </contour>
+  </outline>
+</glyph>

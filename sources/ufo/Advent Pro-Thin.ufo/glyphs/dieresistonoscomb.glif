@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonoscomb" format="1">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="142" y="1380" type="curve"/>
+      <point x="142" y="1361"/>
+      <point x="127" y="1346"/>
+      <point x="108" y="1346" type="curve"/>
+      <point x="89" y="1346"/>
+      <point x="72" y="1361"/>
+      <point x="72" y="1380" type="curve"/>
+      <point x="72" y="1401"/>
+      <point x="89" y="1412"/>
+      <point x="108" y="1412" type="curve"/>
+      <point x="127" y="1412"/>
+      <point x="142" y="1401"/>
+    </contour>
+    <contour>
+      <point x="458" y="1380" type="curve"/>
+      <point x="458" y="1361"/>
+      <point x="443" y="1346"/>
+      <point x="422" y="1346" type="curve"/>
+      <point x="403" y="1346"/>
+      <point x="390" y="1361"/>
+      <point x="390" y="1380" type="curve"/>
+      <point x="390" y="1401"/>
+      <point x="403" y="1412"/>
+      <point x="422" y="1412" type="curve"/>
+      <point x="443" y="1412"/>
+      <point x="458" y="1401"/>
+    </contour>
+    <contour>
+      <point x="402" y="1648" type="curve"/>
+      <point x="292" y="1448" type="line"/>
+      <point x="248" y="1448" type="line"/>
+      <point x="350" y="1674" type="line"/>
+      <point x="360" y="1698"/>
+      <point x="381" y="1700"/>
+      <point x="395" y="1691" type="curve"/>
+      <point x="408" y="1683"/>
+      <point x="415" y="1666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>134</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

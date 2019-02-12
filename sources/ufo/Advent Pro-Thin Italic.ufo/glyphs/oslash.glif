@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="852"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="862" y="1025" type="line"/>
+      <point x="904" y="1025" type="line"/>
+      <point x="200" y="-40" type="line"/>
+      <point x="158" y="-40" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+</glyph>
