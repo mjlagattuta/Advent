@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+	<axes>
+		<axis default="400" maximum="700" minimum="100" name="Weight" tag="wght" />
+	</axes>
+	<sources>
+		<source familyname="Advent Pro" filename="Advent Pro-Regular.ufo" name="master_0">
+			<lib copy="1" />
+			<info copy="1" />
+			<features copy="1" />
+			<location>
+				<dimension name="Weight" xvalue="400" />
+			</location>
+		</source>
+		<source familyname="Advent Pro" filename="Advent Pro-Thin.ufo" name="master_1">
+			<location>
+				<dimension name="Weight" xvalue="100" />
+			</location>
+		</source>
+		<source familyname="Advent Pro" filename="Advent Pro-Bold.ufo" name="master_2">
+			<location>
+				<dimension name="Weight" xvalue="700" />
+			</location>
+		</source>
+	</sources>
+</designspace>
